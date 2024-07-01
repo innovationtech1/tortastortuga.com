@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tortastortuga.com/static/css/main.01a853e9.css",
+    "main.js": "/tortastortuga.com/static/js/main.ffe27fe6.js",
+    "static/media/banner.jpg": "/tortastortuga.com/static/media/banner.88292f79b6c77051bc54.jpg",
+    "index.html": "/tortastortuga.com/index.html",
+    "main.01a853e9.css.map": "/tortastortuga.com/static/css/main.01a853e9.css.map",
+    "main.ffe27fe6.js.map": "/tortastortuga.com/static/js/main.ffe27fe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a853e9.css",
+    "static/js/main.ffe27fe6.js"
+  ]
+}
